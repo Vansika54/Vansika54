@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning full stack development
 
 - 📫 How to reach me : vansika.sumathi@gmail.com
-- ⚡ Fun fact: ...
 
 <!---
 Vansika54/Vansika54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
